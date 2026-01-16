@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-docker-efrei",
+  "name": "nodejs-docker",
   "version": "18.18.1",
   "main": "index.js",
   "dependencies": {
