@@ -1,10 +1,9 @@
 name: Node.js CI/CD
 
-# Cette section définit QUAND le script se lance
 on:
   push:
     branches:
-      - main  # Le script se lance à chaque fois que vous "pushez" sur la branche main
+      - main  
 
 jobs:
   build-and-push:
