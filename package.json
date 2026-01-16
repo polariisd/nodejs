@@ -1,1 +1,11 @@
-
+{
+  "name": "nodejs-docker-efrei",
+  "version": "18.18.1",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
